@@ -7,7 +7,7 @@
 	<!-- jpa settings -->
 	<context-param>
 		<param-name>contextConfigLocation</param-name>
-		<param-value>classpath:/jpaContext.xml</param-value> <!-- used in persistence.xml -->
+		<param-value>classpath:/jpaContext.xml</param-value> <!-- used in persistence.xml --><!-- src/main/resources/jpaContext.xml -->
 	</context-param>
 	<!-- this listener will be triggered when server starts to find contextConfigLocation -->
 	<listener>
