@@ -6,6 +6,7 @@
 *.project
 *.settings
 *.springBeans
+*rebel.xml
 #################
 # Directories
 #################
